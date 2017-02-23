@@ -8,7 +8,6 @@
 
 In this Part, unless the context otherwise requires, “the State” includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.
 
-Now if I add this random line.
 ### 13\. Laws inconsistent with or in derogation of the fundamental rights
 
 \(1) All laws in force in the territory of India immediately before the
